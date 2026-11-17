@@ -26,7 +26,7 @@
   "homepage": "https://github.com/jaywcjlove/awesome-mac#readme",
   "devDependencies": {
     "colors-cli": "^1.0.7",
-    "ejs": "^2.5.6",
+    "ejs": "^7.0.2",
     "gh-pages": "^1.0.0",
     "html-minifier": "^3.3.3",
     "loading-cli": "^1.0.2",
